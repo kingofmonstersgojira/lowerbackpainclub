@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "auth0": {
+      "source": "../../../tmp/auth0-agent-skills/agent-skills-main",
+      "sourceType": "local",
+      "computedHash": "6fb4e5538077f8a280bc6c37616ac38d73bee486f71759faceecfcae7e2d9d80"
+    },
+    "hitpay": {
+      "source": "hit-pay/agent-skills",
+      "commit": "b9a156196ce1c3c0dfe0de3c58c9d3c3d295b7d2",
+      "sourceType": "github",
+      "skillPath": "skills/hitpay/SKILL.md",
+      "computedHash": "83575af906c64f82212dcdc95aa3a0b44de69d812915d84c6959807b0cd31563"
+    }
+  }
+}
